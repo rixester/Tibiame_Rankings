@@ -1,5 +1,5 @@
 # Tibiame_Rankings
-<!DOCTYPE html>
+
 <html> <style>
         a {
             display: block; /* Faz com que cada link seja exibido em uma nova linha */

@@ -26,7 +26,7 @@
     <button onclick="window.location.href='https://rixester.github.io/Tibiame_Rankings/world_15_data.html';">Mundo 15</button>  
     <button onclick="window.location.href='https://rixester.github.io/Tibiame_Rankings/world_23_data.html';">Mundo 23</button>  <br><br><br>
     
-    <button onclick="window.location.href='https://rixester.github.io/Tibiame_Rankings/world_32_data.html';">Mundo 32</button>  
+   <button onclick="window.location.href='https://rixester.github.io/Tibiame_Rankings/world_32_data.html';">Mundo 32</button>  
     <button onclick="window.location.href='https://rixester.github.io/Tibiame_Rankings/world_33_data.html';">Mundo 33</button>  
     <button onclick="window.location.href='https://rixester.github.io/Tibiame_Rankings/world_34_data.html';">Mundo 34</button>  
     <button onclick="window.location.href='https://rixester.github.io/Tibiame_Rankings/world_35_data.html';">Mundo 35</button>  

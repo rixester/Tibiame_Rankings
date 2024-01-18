@@ -1,5 +1,5 @@
 # Tibiame_Rankings
-
+<!DOCTYPE html>
 <html>
 <head>
     <title>Mundos Tibiame</title>

@@ -1,9 +1,6 @@
 # Tibiame_Rankings
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Mundos Tibiame</title>
-    <style>
+<html> <style>
         a {
             display: block; /* Faz com que cada link seja exibido em uma nova linha */
             margin: 5px 0; /* Adiciona um pouco de espaço entre os links */
@@ -15,6 +12,9 @@
             color: darkblue; /* Cor do texto do link quando o mouse está sobre ele */
         }
     </style>
+<head>
+    <title>Mundos Tibiame</title>
+   
 </head>
 <body>
     <h1>Mundos Tibiame</h1>
